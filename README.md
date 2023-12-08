@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RN8FdaB6T1bkkI5n4I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/RN8FdaB6T1bkkI5n4I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I">via GIPHY</a></p>
 
 ### Tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
