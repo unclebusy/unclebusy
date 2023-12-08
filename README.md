@@ -3,9 +3,9 @@
 </div>
 
 👨‍💻 Beginner but very promising Frontend developer   
-🔎 looking for a better job or internship  
+🔎 Looking for a better job or internship  
 📈 There is a great desire to start applying the experience gained in real projects, solving interesting problems with a cool team  
-👨‍🎓 I am currently undergoing training in the Frontend Developer program from Hexlet  
+👨‍🎓 I am currently undergoing training in the Frontend Developer program from [Hexlet](hexlet.io)  
 
 ### Tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
