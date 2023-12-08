@@ -2,6 +2,11 @@
   <img src="https://i.ibb.co/RbWBX7K/image-2023-12-08-18-39-14.png" width="100"/>
 </div>
 
+### 👨‍💻 Beginner but very promising Frontend developer
+🔎 Looking for a better job or internship 
+📈 There is a great desire to start applying the experience gained in real projects, solving interesting problems with a cool team
+👨‍🎓 I am currently undergoing training in the Frontend Developer program from Hexlet
+
 ### Tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
