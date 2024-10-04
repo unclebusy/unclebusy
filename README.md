@@ -3,7 +3,7 @@
 </div>
 
 📚 I am particularly passionate about developing user interfaces and their logical organization.   
-💡I have well-developed skills of independent learning of new technologies, striving to find optimal solutions for tasks.  
+💡 I have well-developed skills of independent learning of new technologies, striving to find optimal solutions for tasks.  
 📊 Experience of working in teams using Agile/Scrum methodologies helps to interact effectively and achieve goals.  
 👨‍💻 I am constantly deepening my knowledge in my technology stack, as well as mastering new tools.  
 
