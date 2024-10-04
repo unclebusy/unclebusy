@@ -2,10 +2,7 @@
   <img src="https://i.ibb.co/RbWBX7K/image-2023-12-08-18-39-14.png" width="100"/>
 </div>
 
-👨‍💻 Beginner but very promising Frontend Developer   
-🔎 Looking for a better job or internship  
-📈 There is a great desire to start applying the experience gained in real projects, solving interesting problems with a cool team  
-👨‍🎓 I successfully completed the Frontend Developer program from [Hexlet](https://ru.hexlet.io/)  
+👨‍💻I am particularly passionate about developing user interfaces and their logical organization. I have well-developed skills of independent learning of new technologies, striving to find optimal solutions for tasks. Experience of working in teams using Agile/Scrum methodologies helps to interact effectively and achieve goals. I am constantly deepening my knowledge in my technology stack, as well as mastering new tools.
 
 ### Tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,4 +16,3 @@
 ### Сontacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unclebusy)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unclebusy)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/unc1ebusy)
