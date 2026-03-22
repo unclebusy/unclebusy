@@ -2,10 +2,12 @@
   <img src="https://i.ibb.co/RbWBX7K/image-2023-12-08-18-39-14.png" width="100"/>
 </div>
 
-📚 I am particularly passionate about developing user interfaces and their logical organization  
-💡 I have well-developed skills of independent learning of new technologies, striving to find optimal solutions for tasks  
-📊 Experience of working in teams using Agile/Scrum methodologies helps to interact effectively and achieve goals    
-👨‍💻 I am constantly deepening my knowledge in my technology stack, as well as mastering new tools  
+💻 Frontend Developer with 4+ years of commercial experience
+⚛️ Building product interfaces with React, TypeScript and modern state management
+🏦 Experience in fintech and B2B platforms
+⚡ Focused on performance, UX and maintainable frontend architecture
+📊 Strong in data-heavy UI, admin panels, forms and API integrations
+🔎 Open to Frontend / React Engineer opportunities 
 
 ### Tech stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
