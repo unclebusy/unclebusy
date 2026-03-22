@@ -22,7 +22,6 @@
   ![REST API](https://img.shields.io/badge/REST%20API-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
   ![WebSocket](https://img.shields.io/badge/websocket-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
   ![Formik](https://img.shields.io/badge/formik-2563EB.svg?style=for-the-badge&logo=formik&logoColor=white)
-  ![Yup](https://img.shields.io/badge/yup-111827.svg?style=for-the-badge&logoColor=white)
   ![React Router](https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
   ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
   ![Mapbox](https://img.shields.io/badge/mapbox-000000.svg?style=for-the-badge&logo=mapbox&logoColor=white)
