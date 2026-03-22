@@ -22,6 +22,9 @@
   ![REST API](https://img.shields.io/badge/REST%20API-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
   ![WebSocket](https://img.shields.io/badge/websocket-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Formik](https://img.shields.io/badge/formik-2563EB.svg?style=for-the-badge&logo=formik&logoColor=white)
+  ![Yup](https://img.shields.io/badge/yup-111827.svg?style=for-the-badge&logoColor=white)
+  ![React Router](https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
 
 ### Сontacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unclebusy)
