@@ -15,6 +15,7 @@
   ![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Zustand](https://img.shields.io/badge/zustand-443E38.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Ant Design](https://img.shields.io/badge/ant%20design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
@@ -25,7 +26,6 @@
   ![React Router](https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
   ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
   ![Mapbox](https://img.shields.io/badge/mapbox-000000.svg?style=for-the-badge&logo=mapbox&logoColor=white)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Сontacts:
