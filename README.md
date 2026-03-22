@@ -25,6 +25,9 @@
   ![Formik](https://img.shields.io/badge/formik-2563EB.svg?style=for-the-badge&logo=formik&logoColor=white)
   ![Yup](https://img.shields.io/badge/yup-111827.svg?style=for-the-badge&logoColor=white)
   ![React Router](https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+  ![Leaflet](https://img.shields.io/badge/leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+  ![Mapbox](https://img.shields.io/badge/mapbox-000000.svg?style=for-the-badge&logo=mapbox&logoColor=white)
 
 ### Сontacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unclebusy)
