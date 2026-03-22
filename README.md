@@ -20,6 +20,8 @@
   ![Ant Design](https://img.shields.io/badge/ant%20design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST%20API-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![WebSocket](https://img.shields.io/badge/websocket-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Сontacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unclebusy)
