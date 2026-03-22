@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/RbWBX7K/image-2023-12-08-18-39-14.png" width="100"/>
 </div>
 
-💻 Frontend Developer with 4+ years of commercial experience  
+💻 Frontend Developer with 4 years of commercial experience  
 ⚛️ Building product interfaces with React, TypeScript and modern state management  
 🏦 Experience in fintech and B2B platforms  
 ⚡ Focused on performance, UX and maintainable frontend architecture  
